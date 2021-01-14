@@ -5,7 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-<https://github.com/rasul230885/java1/issues/1#issue-784591171>
+<При запуске KeyValidator ключ 2fb98b44-93e7-3bdd-a2ad-79347bfe4ad1 выдает ошибку>
 <https://github.com/rasul230885/java1/issues/2#issue-784595376>
 <https://github.com/rasul230885/java1/issues/3#issue-784601000>
 Описание процесса тестирования
